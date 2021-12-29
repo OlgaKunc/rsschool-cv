@@ -1,4 +1,5 @@
 # **Olga Kunc**
+![image](https://user-images.githubusercontent.com/90128488/147700921-5284d41a-8945-403e-a216-9a6ceafc8ab8.png)
 
 **You can contact me:**
 * Telegram: @OlgaKunts
