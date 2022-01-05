@@ -1,2 +1,38 @@
-p: {color=red 
+html {font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+header {background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSW35tp2lv00AQ8XJufNHiX5evJNdZJ9Ze2g&usqp=CAU);
+text-align: center;
+block-size: 60px;
+font-family: monospace;
+font-size: 26px;}
+nav {text-align: center;
+    height:40px;
+    background-color:rgba(151, 213, 241, 0.822);
+    position: -webkit-sticky;
+position:sticky;
+top: 40px;
+block-size: 40px;}
+nav li {display: inline;
+font-size:20px;
+font-weight: bold;}
+img {float:left;}
+h1 {margin-left: 200px;
+    float: center;}
+    h3 {margin-left:200px;
+        float: center;
+    text-decoration: rgba(236, 236, 236, 0.774);}
+.contacts {float:center;
+    text-decoration: underline;
+    margin-left: 180px;
+}
+p {font-size: 20px;}
+hr {float:center;
+margin-left: 200px;}
+article {position:  ;}
+.long_stripe {margin-left: 10px;}
+footer {background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSW35tp2lv00AQ8XJufNHiX5evJNdZJ9Ze2g&usqp=CAU);}
+.logo {margin-left: 90%;
+}
+a, a:visited, a:active{ color: black;
+    text-decoration: none; 
+   } 
